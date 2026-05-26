@@ -1,0 +1,22 @@
+ body{
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+    text-align: center;
+}
+
+img{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+}
+
+section{
+    background-color:white;
+    margin:20px;
+    padding:15px;
+    border-radius:10px;
+}
+
+a{
+    text-decoration:none;
+}
